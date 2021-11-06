@@ -113,6 +113,9 @@ p {
   h1 {
     font-size: 60px;
   }
+  h3 {
+    padding: 0 5px;
+  }
   .home-content {
     text-align: center;
   }
