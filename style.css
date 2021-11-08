@@ -113,11 +113,18 @@ p {
   h1 {
     font-size: 60px;
   }
+  h2 {
+    font-size: 35px;
+  }
   h3 {
+    font-size: 19px;
     padding: 0 5px;
   }
   .home-content {
     text-align: center;
+  }
+  .navigation-links {
+    margin-top: 15px;
   }
 }
 
